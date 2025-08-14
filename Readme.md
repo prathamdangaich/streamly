@@ -1,6 +1,6 @@
-# Fully working and tested Youtube Backend
+# Fully working and tested Backend Server
 ## Introduction
-A fully functional backend server of a Youtube like platform.
+A fully functional backend server of a "Streamly", a Youtube like platform.
 This project implements backend features like user authentication, video upload, playlist management, tweet system, likes, subscriptions dashboard, and more — 
 using **Node.js**, **Express.js**, and **MongoDB**.
  
@@ -54,3 +54,4 @@ All routes have been thoroughly tested using **Postman**. Each controller provid
 <br>
 **GitHub:** [prathamdangaich](https://github.com/prathamdangaich)
   
+
